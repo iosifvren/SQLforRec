@@ -1,0 +1,6 @@
+Count of ApplicationID,Status,,,
+PositionName,Hired,Interview Scheduled,Rejected,Grand Total
+Data Analyst,,,1,1
+Product Manager,1,,,1
+Software Engineer,,1,,1
+Grand Total,1,1,1,3
